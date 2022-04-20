@@ -209,37 +209,3 @@ int main()
 	}
 	delay(100000);
 }
-	
-	/*
-	trans[0][0]=cos(v);
-	trans[0][1]=sin(u)*sin(v);
-	trans[0][2]=cos(u)*sin(v);
-	trans[0][3]=0;
-	trans[1][0]=0;
-	trans[1][1]=cos(u);
-	trans[1][2]=-sin(u);
-	trans[1][3]=0;
-	trans[2][0]=-sin(v);
-	trans[2][1]=sin(u)*cos(v);
-	trans[2][2]=cos(u)*cos(v);
-	trans[2][3]=0;
-	trans[3][0]=0;
-	trans[3][1]=0;
-	trans[3][2]=0;
-	trans[3][3]=0;
-	for(i=0;i<16;i++)
-	{
-		multi(p1, p3[i], p6[i]);
-	}
-	for(i=0;i<16;i++)
-	{
-		for(j=0;j<4;j++)
-		{
-			cout<<output2[i][j]<<"\t";
-		}
-		cout<<endl;
-	}
-}
-	//int gd = DETECT, gm, color;
-	//initgraph(&gd, &gm, (char*)"");
-	*/
