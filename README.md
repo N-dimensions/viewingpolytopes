@@ -5,9 +5,9 @@ Sample outputs of these programs are as follows:
 
 ![Cube](https://github.com/k14082002/viewingpolytopes/blob/main/Sourcelight-cube.PNG)
 
-Output of the sourcelight-cube program for some specific input.
+Instance from Output of the sourcelight-cube program for some specific input.
 
 
 ![Tesseract](https://github.com/k14082002/viewingpolytopes/blob/main/Sourcelight-tesseract.PNG)
 
-Output of the sourcelight-tesseract program for some specific input. 
+Instance from Output of the sourcelight-tesseract program for some specific input. 
