@@ -341,20 +341,6 @@ int main()
 			}
 		}
 		inv(mat, 4);
-		//cout<<"D3: "<<d[3]<<endl;
-		//cout<<"Matrix taken in: "<<endl;
-		for(i=0;i<4;i++)
-		{
-			//a[i]=rand()%10;
-			//b[i]=rand()%10;
-			//c[i]=rand()%10;
-			//p1[i]=&matrix[i][0];
-			for(j=0;j<4;j++)
-			{
-				//cout<<matrix[i][j]<<"\t";
-			}
-			//cout<<endl;
-		}
 		for(i=0;i<20;i++)
 		{
 			multi(mat, p1[i], p3[i]);
@@ -425,8 +411,8 @@ int main()
 				}
 			}
 		}
-		delay(10);
-		t=t+0.01;
+		delay(20);
+		t=t+0.02;
 	}
 }
 
