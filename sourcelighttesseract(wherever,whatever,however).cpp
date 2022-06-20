@@ -199,7 +199,7 @@ int main()
 	mag=1;
 	cout<<"Distance between screen and point of vision: ";
 	cin>>D;
-	cout<<"How do you wanna see things, specify you i^ (i cap): only first 2 co-ordinates... unless required: "<<endl;
+	cout<<"How do you wanna see things, specify your i^ (i cap): only first 2 co-ordinates... unless required: "<<endl;
 	cout<<"X co-ordinate: ";
 	cin>>icap[0];
 	cout<<"Y co-ordinate: ";
